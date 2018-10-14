@@ -33,4 +33,11 @@ A platform that integrates a predictive model using machine learning to flag stu
 | Neighboorhood | (0-4), 0 is worst neighbourhhod, 4 is best neighbourhood |
 | Free Lunch | Yes-0, No-1 |
 
+## Results
 
+| Algorithm | Accuracy |
+|--------|--------------|
+| Decision Trees | 73% |
+| K Nearest Neighbours | 84.49% |
+| Random Forest | 85.2% |
+| Extra Trees | 82.4% |
